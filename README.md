@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Wylkerd Santos :alien:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/wylkerd)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wylkerdsantossilva/)](https://www.linkedin.com/in/fagnerpsantos/)
+
+### About me
+I'm a {backend and frontend} developer. 
+Development of predictive models with Python. Development of models and APIs. 
 
 <!--
 **wylkerd/wylkerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
