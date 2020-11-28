@@ -13,5 +13,6 @@ Development of predictive models with Python. Development of models and APIs.
 
 ## Contact
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wylkerd)](https://github.com/wylkerd)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=wylkerdsantosoficial@gmail.com)](wylkerdsantosoficial@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wylkerdsantossilva/)](https://www.linkedin.com/in/wylkerdsantossilva/)
 
