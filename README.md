@@ -5,7 +5,7 @@ I'm a backend developer.
 Development of predictive models with Python. Development of models and APIs. 
 
 :earth_americas: Brazilian
-:birthday: 20yo
+:birthday: 21yo
 :books: Student
 
 ## My stack and tools
