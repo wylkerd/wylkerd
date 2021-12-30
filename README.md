@@ -1,8 +1,8 @@
 # Hi, I'm Wylkerd Santos :alien: :rocket:	
 
 ## About me
-I'm a backend developer. 
-Development of predictive models with Python. Development of models and APIs. 
+I'm a front-end developer. 
+Development of user interfaces with React Js and TypeScript. Development of database models and APIs too. 
 
 :earth_americas: Brazilian
 :birthday: 21yo
